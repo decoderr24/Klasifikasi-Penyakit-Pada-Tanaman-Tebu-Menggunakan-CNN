@@ -11,5 +11,5 @@ Hasil epoch yang sudah diaugmentasi dan dilakukan fine tuning :
 
 Maka diperoleh hasil :
 - Accuracy  : 92%
-- Precision : 98%
+- Precision : 97%
 - Recall    : 98%
