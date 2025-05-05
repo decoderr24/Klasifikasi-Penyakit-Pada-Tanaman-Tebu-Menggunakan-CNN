@@ -10,6 +10,6 @@ Hasil epoch yang sudah diaugmentasi dan dilakukan fine tuning :
 ![image](https://github.com/user-attachments/assets/8a3d6fc3-fef7-46ed-85fb-0003e1e7f199)
 
 Maka diperoleh hasil :
-- Accuracy  : 92%
+- Accuracy  : 90%
 - Precision : 97%
 - Recall    : 98%
